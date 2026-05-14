@@ -69,4 +69,4 @@ The identified globin domain confirms the protein’s role in oxygen binding and
 
 ## 📸 InterPro Output
 
-![InterPro Output](interpro_output)
+![InterPro Output](interpro_output.png)
